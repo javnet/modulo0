@@ -4,6 +4,8 @@ Os dejamos una colección de ejercicios prácticos para que vayáis cogiendo sol
 
 ### Índice:
 
+## Semana 1.
+
 #### Ejercicios de git y github:
 
 - Crea tu repositorio.
@@ -73,5 +75,12 @@ function askToLeave() {
 Ejercicio 0 - Calculadora [(hacer)](c0.md)
 
 Ejercicio 1 - Taxis [(hacer)](c1.md)
+
+## Semana 2.
+
+Mix de Ejercicios JS:
+https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php
+
+
 
 [Volver](../../README.md).
